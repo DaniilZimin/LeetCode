@@ -18,6 +18,7 @@
 | [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)                      | [Problem153.java](src/problems/Problem153.java)   |   Medium   |
 | [162. Find Peak Element](https://leetcode.com/problems/find-peak-element)                                                            | [Problem162.java](src/problems/Problem162.java)   |   Medium   |
 | [169. Majority Element](https://leetcode.com/problems/majority-element)                                                              | [Problem169.java](src/problems/Problem169.java)   |    Easy    |
+| [202. Happy Number](https://leetcode.com/problems/happy-number)                                                                      | [Problem202.java](src/problems/Problem202.java)   |    Easy    |
 | [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings)                                                          | [Problem205.java](src/problems/Problem205.java)   |    Easy    |
 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate)                                                          | [Problem217.java](src/problems/Problem217.java)   |    Easy    |
 | [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii)                                                    | [Problem219.java](src/problems/Problem219.java)   |    Easy    |
@@ -46,4 +47,6 @@
 | [1389. Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order)                 | [Problem1389.java](src/problems/Problem1389.java) |    Easy    |
 | [1413. Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum) | [Problem1413.java](src/problems/Problem1413.java) |    Easy    |
 | [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-arra)                                                | [Problem1480.java](src/problems/Problem1480.java) |   Medium   |
+| [1662. Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent)           | [Problem1662.java](src/problems/Problem1662.java) |   Medium   |
+| [1668. Maximum Repeating Substring](https://leetcode.com/problems/maximum-repeating-substring)                                       | [Problem1668.java](src/problems/Problem1668.java) |   Medium   |
 | [2341. Maximum Number of Pairs in Array](https://leetcode.com/problems/maximum-number-of-pairs-in-array)                             | [Problem2341.java](src/problems/Problem2341.java) |    Easy    |
