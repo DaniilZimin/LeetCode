@@ -25,6 +25,10 @@
 | [231. Power of Two](https://leetcode.com/problems/power-of-two)                                                                      | [Problem231.java](src/problems/Problem231.java)   |    Easy    |
 | [268. Missing Number](https://leetcode.com/problems/missing-number)                                                                  | [Problem268.java](src/problems/Problem268.java)   |    Easy    |
 | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes)                                                                        | [Problem283.java](src/problems/Problem283.java)   |    Easy    |
+| [334. Reverse String](https://leetcode.com/problems/reverse-string)                                                                  | [Problem334.java](src/problems/Problem334.java)   |    Easy    |
+| [342. Power of Four](https://leetcode.com/problems/power-of-four)                                                                    | [Problem342.java](src/problems/Problem342.java)   |    Easy    |
+| [367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square)                                                      | [Problem367.java](src/problems/Problem367.java)   |    Easy    |
+| [383. Ransom Note](https://leetcode.com/problems/ransom-note)                                                                        | [Problem383.java](src/problems/Problem383.java)   |    Easy    |
 | [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string)                          | [Problem387.java](src/problems/Problem387.java)   |    Easy    |
 | [392. Is Subsequence](https://leetcode.com/problems/is-subsequence)                                                                  | [Problem392.java](src/problems/Problem392.java)   |    Easy    |
 | [409. Longest Palindrome](https://leetcode.com/problems/longest-palindrome)                                                          | [Problem409.java](src/problems/Problem409.java)   |    Easy    |
